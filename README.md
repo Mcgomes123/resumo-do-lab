@@ -1,9 +1,3 @@
-# Exame AZ-900
-
-Anotações de Estudo para Exame AZ-900 - Fundamentos do Microsoft Azure
-
-Veja as referências para o exame [AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900).
-
 ## Computação em Nuvem
 
 Computação em nuvem é a entrega de serviços de computação por meio da Internet, possibilitando uma inovação mais rápida, recursos flexíveis e economia de escala.
